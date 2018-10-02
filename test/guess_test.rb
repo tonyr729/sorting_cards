@@ -3,6 +3,7 @@ require 'minitest/pride'
 require './lib/card'
 require './lib/guess'
 
+# The same advice from the card test also can be applied here.
 
 class GuessTest < Minitest::Test
   def setup
