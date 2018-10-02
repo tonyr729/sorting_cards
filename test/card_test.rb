@@ -1,6 +1,5 @@
-require 'minitest/autorun'
-require 'minitest/pride'
-require './lib/card'
+require './test/test_helper'
+
 
 # So this is sort of nitpicking at this stage but it will save you later on.
 # A common stylistic part of ruby testing is to have all of your relevant variables defined up at the top.
